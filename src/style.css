@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('./sixty.ttf') format('truetype');
+ }
+
+ body {
+  background-color: bisque;
+}
+
+.hello {
+    color: red;
+    font-family: 'MyFont';
+    background: url('./firefox.svg');
+  }
